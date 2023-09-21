@@ -113,3 +113,15 @@ footer a:hover {
     color:blueviolet;
     text-decoration: none;
 }
+
+.text {
+    position: absolute;
+    left: -120px;
+    top: 50%;
+    transform: rotate(270deg);
+    font-weight: 500;
+}
+
+.top {
+    color: red;
+}
