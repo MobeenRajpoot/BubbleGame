@@ -125,3 +125,13 @@ footer a:hover {
 .top {
     color: red;
 }
+
+.winner {
+    font-weight: 500;
+    margin-bottom: -10px;
+}
+
+.winner .a {
+    color: blueviolet;
+    list-style-type: none;
+}
